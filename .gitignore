@@ -1,0 +1,22 @@
+# Ignorer les dossiers de données
+data/raw/
+data/processed/
+
+# Ignorer les environnements virtuels
+env/
+venv/
+*.pyc
+__pycache__/
+
+# Ignorer les logs
+*.log
+
+# Ignorer les checkpoints de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ignorer les fichiers spécifiques à l'OS
+.DS_Store
+Thumbs.db
+
+# Ignorer les fichiers temporaires
+*~
